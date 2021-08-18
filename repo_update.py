@@ -11,7 +11,7 @@ def update_repo():
     #print(html_code)
     
     # Authenticate yourself -> g = Github("yourusername", "yourauthtoken")
-    g = Github("yashash7", "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")
+    g = Github("yashash7", "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")
     # Find your repository and path of README.md
     repo=g.get_user().get_repo("lumos")
     file = repo.get_contents("README.md")
