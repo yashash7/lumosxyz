@@ -20,7 +20,7 @@ def update_repo():
         #Updating repo -> repo.update_file("file", "commit message", content, file.sha)
         commit_message = "Update Links' Base "+date_time
         #content = html_code
-        repo.update_file("README.md", commit_message, html_code, file.sha, branch = "main")
+        repo.update_file("README.md", commit_message, html_code, file.sha, branch = "auto_update")
         print("Commit Successful!")
     except:
         print("An Error occured, Update Failed")
