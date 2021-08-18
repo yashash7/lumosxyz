@@ -1,9 +1,9 @@
 from github import Github
-from ckl_base import *
+import ckl_base
 import datetime
 
 def update_repo():
-    database = db_server()
+    database = ckl_base.db_server()
     mydb = database.connect()
     myres = database.select() #Calling Select Function to Fetch Data Tuples From DataBase
     html_code = database.generate_html(myres)
