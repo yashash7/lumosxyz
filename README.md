@@ -1,7 +1,4 @@
 
-# Links' Base
-
-
 <table>
 
 <tr>
