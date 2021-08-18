@@ -11,7 +11,7 @@ def update_repo():
     #print(html_code)
     
     # Authenticate yourself -> g = Github("yourusername", "yourauthtoken")
-    g = Github("yashash7", "GitHub4GHP#NY4")
+    g = Github("yashash7", "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")
     # Find your repository and path of README.md
     repo=g.get_user().get_repo("lumos")
     file = repo.get_contents("README.md")
@@ -20,7 +20,7 @@ def update_repo():
         #Updating repo -> repo.update_file("file", "commit message", content, file.sha)
         commit_message = "Update Links' Base "+date_time
         #content = html_code
-        repo.update_file("README.md", commit_message, html_code, file.sha, branch = "auto_update")
+        repo.update_file("README.md", commit_message, html_code, branch = "main")
         print("Commit Successful!")
     except:
         print("An Error occured, Update Failed")
