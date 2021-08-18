@@ -1,0 +1,2 @@
+PyGitHub
+mysql-connector-python
