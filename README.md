@@ -1,2 +1,1 @@
-# lumos
-My Daily Links' Repository
+# Links' Base
