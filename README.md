@@ -43,4 +43,10 @@
 <td>Online Python Server24/7</td>
 </tr>
 
+<tr>
+<td>2021-08-18 23:26:23 IST</td>
+<td><a href="https://www.wayscript.com">https://www.wayscript.com</a></td>
+<td>Automation CI/CD Platform like pythonanywhere.com</td>
+</tr>
+
 </table>
