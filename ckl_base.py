@@ -3,14 +3,14 @@ import datetime
 
 class db_server:
     def __init__(self):
-        self._user_name = "ul8a9buow3kovfwl"
-        self._server = "bmm9nmdc8jkviblsmk1v-mysql.services.clever-cloud.com"
-        self._pwd = "T5fBv04lvFp9hBV9W70b"
-        self._db = "bmm9nmdc8jkviblsmk1v"
+        self.user_name = "ul8a9buow3kovfwl"
+        self.server = "bmm9nmdc8jkviblsmk1v-mysql.services.clever-cloud.com"
+        self.pwd = "T5fBv04lvFp9hBV9W70b"
+        self.db = "bmm9nmdc8jkviblsmk1v"
 
     def connect(self):
         #connecting to DB
-        return mysql.connector.connect(user=self._user_name, password=self._pwd, host=self._server, database=self._db)
+        return mysql.connector.connect(user=self.user_name, password=self.pwd, host=self.server, database=self.db)
         #return mydb
     def select(self):
         connection = self.connect()
