@@ -73,4 +73,10 @@
 <td>Digitally induced GmBH</td>
 </tr>
 
+<tr>
+<td>2021-08-19 22:43:13 IST</td>
+<td><a href="https://www.analyticsinsight.net/essential-skills-every-aspiring-cybersecurity-professional-should-have/">https://www.analyticsinsight.net/essential-skills-every-aspiring-cybersecurity-professional-should-have/</a></td>
+<td>ESSENTIAL SKILLS EVERY ASPIRING CYBERSECURITY PROFESSIONAL SHOULD HAVE</td>
+</tr>
+
 </table>
