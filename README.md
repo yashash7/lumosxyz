@@ -49,4 +49,28 @@
 <td>Automation CI/CD Platform like pythonanywhere.com</td>
 </tr>
 
+<tr>
+<td>2021-08-19 11:33:49 IST</td>
+<td><a href="https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641">https://towardsdatascience.com/write-better-and-faster-python-using-einstein-notation-3b01fc1e8641</a></td>
+<td>Write Better And Faster Python Using Einstein Notation numpy..</td>
+</tr>
+
+<tr>
+<td>2021-08-19 11:34:34 IST</td>
+<td><a href="https://dev.to/byteslash/how-to-overcome-fomo-in-coding-174n">https://dev.to/byteslash/how-to-overcome-fomo-in-coding-174n</a></td>
+<td>How to Overcome FOMO in Coding</td>
+</tr>
+
+<tr>
+<td>2021-08-19 11:35:02 IST</td>
+<td><a href="https://devswag.io/?tags=accessories+badges+clothing+device+donation+hacktoberfest+mug+software+stickers">https://devswag.io/?tags=accessories+badges+clothing+device+donation+hacktoberfest+mug+software+stickers</a></td>
+<td>Dev Swag</td>
+</tr>
+
+<tr>
+<td>2021-08-19 11:36:23 IST</td>
+<td><a href="https://devswag.io/?tags=accessories+badges+clothing+device+donation+hacktoberfest+mug+software+stickers">https://devswag.io/?tags=accessories+badges+clothing+device+donation+hacktoberfest+mug+software+stickers</a></td>
+<td>Digitally induced GmBH</td>
+</tr>
+
 </table>
