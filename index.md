@@ -82,5 +82,17 @@
 <td><a href="https://www.analyticsinsight.net/essential-skills-every-aspiring-cybersecurity-professional-should-have/">ESSENTIAL SKILLS EVERY ASPIRING CYBERSECURITY PROFESSIONAL SHOULD HAVE</a></td>
 </tr>
 
+<tr>
+<td>13</td>
+<td>2021-08-20 11:13:50 IST</td>
+<td><a href="https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/amp/">CRUD Operations using React, React Hooks, and Axios</a></td>
+</tr>
+
+<tr>
+<td>14</td>
+<td>2021-08-20 11:29:34 IST</td>
+<td><a href="https://towardsdatascience.com/python-but-its-weird-f90b45220f86">Code snippets that will question your Python skills</a></td>
+</tr>
+
 </table>
 
